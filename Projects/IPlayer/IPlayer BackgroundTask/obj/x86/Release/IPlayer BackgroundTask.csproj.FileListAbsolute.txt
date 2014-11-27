@@ -1,0 +1,48 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\bin\x86\Release\IPlayer_BackgroundTask.winmd
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\bin\x86\Release\IPlayer_BackgroundTask.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\bin\x86\Release\IPlayer_BackgroundTask.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\IPlayer_BackgroundTask.winmd
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\IPlayer_BackgroundTask.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\IPlayer_BackgroundTask.winmdobj
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\IPlayer_BackgroundTask.compile.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\priconfig.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\layout.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\resources.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\pri.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\LanguageQualifiers.txt
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\bin\x86\Release\IPlayer_BackgroundTask.winmd
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\bin\x86\Release\IPlayer_BackgroundTask.pdb
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\bin\x86\Release\IPlayer_BackgroundTask.pri
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\IPlayer_BackgroundTask.winmd
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\IPlayer_BackgroundTask.pdb
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\IPlayer_BackgroundTask.winmdobj
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\IPlayer_BackgroundTask.compile.pdb
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\priconfig.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\layout.resfiles
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\resources.resfiles
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\pri.resfiles
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\priconfig.xml.intermediate
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\layout.resfiles.intermediate
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\resources.resfiles.intermediate
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\pri.resfiles.intermediate
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\qualifiers.txt
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\qualifiers.txt.intermediate
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\bin\x86\Release\IPlayer_BackgroundTask.winmd
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\bin\x86\Release\IPlayer_BackgroundTask.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\bin\x86\Release\IPlayer_BackgroundTask.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\IPlayer_BackgroundTask.winmd
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\IPlayer_BackgroundTask.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\IPlayer_BackgroundTask.winmdobj
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\IPlayer_BackgroundTask.compile.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\priconfig.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\layout.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\resources.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\pri.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\qualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Hadoop.Client</id>
+    <version>1.1.0.7</version>
+    <title>Microsoft .NET API for Hadoop</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://go.microsoft.com/fwlink/?LinkId=235170</licenseUrl>
+    <projectUrl>http://hadoopsdk.codeplex.com/</projectUrl>
+    <iconUrl>http://go.microsoft.com/fwlink/?LinkID=288890</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Provides a .NET API for working with Hadoop clusters over HTTP</description>
+    <tags>Microsoft Azure HDInsight Hadoop Scalable windowsazureofficial</tags>
+    <dependencies>
+      <dependency id="WindowsAzure.Storage" version="3.0.2.0" />
+    </dependencies>
+    <references>
+      <group targetFramework=".NETFramework4.0">
+        <reference file="Microsoft.Hadoop.Client.dll" />
+        <reference file="Microsoft.Hadoop.Client.xml" />
+        <reference file="Microsoft.WindowsAzure.Management.HDInsight.Framework.Core.dll" />
+        <reference file="Microsoft.WindowsAzure.Management.HDInsight.Framework.Core.xml" />
+        <reference file="Microsoft.WindowsAzure.Management.HDInsight.Framework.dll" />
+        <reference file="Microsoft.WindowsAzure.Management.HDInsight.Framework.xml" />
+      </group>
+    </references>
+  </metadata>
+</package>

@@ -1,0 +1,52 @@
+﻿<Window x:Class="Network_Scanner.Welcome"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Network Scanner" Height="345.221" Width="575.736" Loaded="Window_Loaded">
+
+    <Grid>
+        <Grid.Resources>
+            <Style x:Name="TextStyle" TargetType="TextBox">
+               <Setter Property="BorderBrush" Value="Black"></Setter>
+            </Style>
+          
+        </Grid.Resources>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="56*"/>
+            <ColumnDefinition Width="166*"/>
+            <ColumnDefinition Width="84*"/>
+            <ColumnDefinition Width="217*"/>
+            <ColumnDefinition Width="45*"/>
+        </Grid.ColumnDefinitions>
+         <Grid.RowDefinitions>
+            <RowDefinition Height="27"/>
+            <RowDefinition Height="242*"/>
+        </Grid.RowDefinitions>
+        
+        <Label VerticalContentAlignment="Center" Content="First IP" Grid.Row="0" Grid.Column="0"></Label>
+        <TextBox  Grid.Row="0" Grid.Column="1" x:Name="FirstIp"></TextBox>
+        <Label VerticalContentAlignment="Center" Content="Last IP" Grid.Row="0" Grid.Column="2"></Label>
+        <TextBox Grid.Row="0" Grid.Column="3"  x:Name="LastIp"></TextBox>
+        <Button Grid.Row="0" Content="Go" Grid.Column="4" x:Name="Button1"  Click="Processing"></Button>
+        <ListView  Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="6" x:Name="ListView1" SelectionChanged="ListView1_SelectionChanged">
+           <ListView.ItemTemplate>
+               <DataTemplate>
+                   <Grid>
+                       <Grid.RowDefinitions>
+                           <RowDefinition Height="20"></RowDefinition>
+                       </Grid.RowDefinitions>
+                     <Grid.ColumnDefinitions>
+                         <ColumnDefinition Width="275"></ColumnDefinition>
+                         <ColumnDefinition Width="275"></ColumnDefinition>
+                     </Grid.ColumnDefinitions>
+                       <TextBlock Grid.Row="0" Grid.Column="0" Text="{Binding IpAddress}"></TextBlock>
+                       <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding MacAddress}"></TextBlock>
+                   </Grid>
+               </DataTemplate>
+           </ListView.ItemTemplate>
+       </ListView>
+
+
+
+    </Grid>
+</Window>

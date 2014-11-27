@@ -1,0 +1,16 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="SoapServiceSoap" maxBufferSize="2147483647" maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost:34599/SoapService.asmx" binding="basicHttpBinding"
+                bindingConfiguration="SoapServiceSoap" contract="ServiceReference1.SoapServiceSoap"
+                name="SoapServiceSoap" />
+        </client>
+    </system.serviceModel>
+</configuration>

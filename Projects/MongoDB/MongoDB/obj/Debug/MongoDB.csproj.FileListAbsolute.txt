@@ -1,0 +1,13 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\bin\MongoDB.dll.config
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\bin\MongoDB.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\bin\MongoDB.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\bin\AjaxMin.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\bin\JuiceUI.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\bin\MongoDB.Bson.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\bin\MongoDB.Driver.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\bin\Newtonsoft.Json.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\bin\Newtonsoft.Json.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\bin\Newtonsoft.Json.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.csprojResolveAssemblyReference.cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.pdb

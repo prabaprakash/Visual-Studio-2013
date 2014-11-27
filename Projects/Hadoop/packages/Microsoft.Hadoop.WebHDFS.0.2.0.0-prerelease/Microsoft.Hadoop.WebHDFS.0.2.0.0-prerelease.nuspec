@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Hadoop.WebHDFS</id>
+    <version>0.2.0.0-prerelease</version>
+    <title>Microsoft .NET API For Hadoop WebHDFS</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <projectUrl>http://hadoopsdk.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides a .NET API for WebHDFS</description>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.WebApi.Client" />
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,10 @@
+<Slider x:Name="Sl_VolumeSilder">
+        <Interactivity:Interaction.Behaviors>
+            <Core:EventTriggerBehavior EventName="ValueChanged">
+                <Core:InvokeCommandAction Command="{Binding OnSliderValueChangedCommand}" CommandParameter="{Binding ElementName=Sl_VolumeSilder, Path=Value}"/>
+            </Core:EventTriggerBehavior>
+        </Interactivity:Interaction.Behaviors>
+</Slider>
+
+xmlns:Interactivity="using:Microsoft.Xaml.Interactivity"
+xmlns:Core="using:Microsoft.Xaml.Interactions.Core"

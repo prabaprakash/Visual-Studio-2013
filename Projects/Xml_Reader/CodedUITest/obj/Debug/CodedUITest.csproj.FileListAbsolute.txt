@@ -1,0 +1,10 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\CodedUITest\bin\Debug\CodedUITest.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\CodedUITest\bin\Debug\CodedUITest.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\CodedUITest\obj\Debug\CodedUITest.csprojResolveAssemblyReference.cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\CodedUITest\obj\Debug\CodedUITest.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\CodedUITest\obj\Debug\CodedUITest.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\CodedUITest\bin\Debug\LoadTest1.loadtest
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\CodedUITest\bin\Debug\LoadTest2.loadtest
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\CodedUITest\bin\Debug\GenericTest1.GenericTest
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\CodedUITest\bin\Debug\CodedUITest.dll.CodeAnalysisLog.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\CodedUITest\bin\Debug\CodedUITest.dll.lastcodeanalysissucceeded

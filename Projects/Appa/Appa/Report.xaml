@@ -1,0 +1,168 @@
+﻿<phone:PhoneApplicationPage x:Class="Appa.Report"
+                            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                            xmlns:loc="clr-namespace:Appa"
+                            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                            xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+                            xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+                            FontFamily="{StaticResource PhoneFontFamilyNormal}"
+                            FontSize="{StaticResource PhoneFontSizeNormal}"
+                            Foreground="{StaticResource PhoneForegroundBrush}"
+                            Orientation="Portrait"
+                            SupportedOrientations="Portrait"
+                            shell:SystemTray.IsVisible="True"
+                            mc:Ignorable="d">
+
+    <!--  LayoutRoot is the root grid where all page content is placed  -->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.Resources>
+            <loc:ShopLists x:Key="shop" />
+        </Grid.Resources>
+        <phone:Pivot Name="ReportPage" Title="VALUE – MOBILE LOYALTY">
+            <phone:PivotItem Header="Offers" Loaded="OfferLoaded">
+
+                <phone:LongListSelector Name="OfferList"
+                                        BorderBrush="Snow"
+                                        Foreground="White"
+                                        ItemsSource="{Binding Source={StaticResource shop}}"
+                                        SelectionChanged="OfferList_OnSelectionChanged">
+                    <phone:LongListSelector.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <StackPanel Orientation="Vertical">
+
+                                    <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                               Style="{StaticResource PhoneTextLargeStyle}"
+                                               Text="{Binding Name}"
+                                               TextWrapping="Wrap" />
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextNormalStyle}"
+                                                   Text="Mobile No:"
+                                                   TextWrapping="Wrap" />
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextNormalStyle}"
+                                                   Text="{Binding MobileNo}"
+                                                   TextWrapping="Wrap" />
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextSmallStyle}"
+                                                   Text="Coupon Code:"
+                                                   TextWrapping="Wrap" />
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextSmallStyle}"
+                                                   Text="{Binding CouponId}"
+                                                   TextWrapping="Wrap" />
+                                    </StackPanel> 
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextSmallStyle}"
+                                                   Text="Offer:"
+                                                   TextWrapping="Wrap" />
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextSmallStyle}"
+                                                   Text="{Binding Offer}"
+                                                   TextWrapping="Wrap" />
+                                    </StackPanel>  
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextSmallStyle}"
+                                                   Text="Valid Till:"
+                                                   TextWrapping="Wrap" />
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextSmallStyle}"
+                                                   Text="{Binding ExpiryDateTime}"
+                                                   TextWrapping="Wrap" />
+                                    </StackPanel>
+                                </StackPanel>
+                            </Grid>
+                        </DataTemplate>
+                    </phone:LongListSelector.ItemTemplate>
+                </phone:LongListSelector>
+            </phone:PivotItem>
+            <phone:PivotItem Header="Redemption" Loaded="RemptionLoaded">
+                <phone:LongListSelector Name="RedemptionList"
+                                        Foreground="White"
+                                        ItemsSource="{Binding Source={StaticResource shop}}">
+                    <phone:LongListSelector.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <StackPanel Orientation="Vertical">
+
+                                    <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                               Style="{StaticResource PhoneTextLargeStyle}"
+                                               Text="{Binding Name}"
+                                               TextWrapping="Wrap" />
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextNormalStyle}"
+                                                   Text="Mobile No:"
+                                                   TextWrapping="Wrap" />
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextNormalStyle}"
+                                                   Text="{Binding MobileNo}"
+                                                   TextWrapping="Wrap" />
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextSmallStyle}"
+                                                   Text="Coupon Code:"
+                                                   TextWrapping="Wrap" />
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextSmallStyle}"
+                                                   Text="{Binding CouponId}"
+                                                   TextWrapping="Wrap" />
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextSmallStyle}"
+                                                   Text="Offer:"
+                                                   TextWrapping="Wrap" />
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextSmallStyle}"
+                                                   Text="{Binding Offer}"
+                                                   TextWrapping="Wrap" />
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextSmallStyle}"
+                                                   Text="Valid Till:"
+                                                   TextWrapping="Wrap" />
+                                        <TextBlock FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                                                   Style="{StaticResource PhoneTextSmallStyle}"
+                                                   Text="{Binding ExpiryDateTime}"
+                                                   TextWrapping="Wrap" />
+                                    </StackPanel>
+                                </StackPanel>
+                            </Grid>
+                        </DataTemplate>
+                    </phone:LongListSelector.ItemTemplate>
+                </phone:LongListSelector>
+            </phone:PivotItem>
+        </phone:Pivot>
+    </Grid>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar BackgroundColor="Gray"
+                              IsMenuEnabled="True"
+                              IsVisible="True">
+
+            <shell:ApplicationBarIconButton Click="Logout"
+                                            IconUri="Assets/e10f-Home.48.png"
+                                            Text="Logout" />
+
+
+
+
+
+
+
+            <shell:ApplicationBar.MenuItems>
+
+                <shell:ApplicationBarMenuItem Click="AboutPage" Text="About" />
+
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>

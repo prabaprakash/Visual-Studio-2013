@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>JuiceUI</id>
+    <version>1.1.1</version>
+    <title>Juice UI</title>
+    <authors>appendTo</authors>
+    <owners>appendTo</owners>
+    <projectUrl>http://juiceui.com/</projectUrl>
+    <iconUrl>http://juiceui.com/images/nuget-juice-icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Juice UI – Supercharge ASP.NET Web Forms with jQuery UI</description>
+    <releaseNotes>1.1.1
+	• This is a version marker purely because NuGet won't allow overwriting packages. All updates included in the 1.1 changeset are included in v1.1.1.
+1.1 
+	• Added support for jQuery UI 1.9.
+	• Added menu widget Control
+	• Added spinner widget Control
+	• Added tooltip widget Control
+	• Updated control events and properties in accordance with the jQuery UI 1.9 Upgrade Guide (http://stage.jqueryui.com/upgrade-guide/1.9/)	
+	• Updated the Fresh-Squeezed theme
+	• Updated the Supercharged theme
+	
+1.0.1
+	• Fixes the initial path set by JuiceApp.cs.
+	
+1.0
+	• Updated the jQuery package reference to 1.8.2.
+	
+0.9.2.1
+	• Fixes the initial path set by JuiceApp.cs.
+	• Updated the jQuery UI package reference to 1.8.23.
+
+0.9.2
+	• Added AutoPostBack option to the Droppable Drop event.
+	• Added AutoPostBack option to the Draggable Drag event.
+	• Added FindControl method to the TabPage control.
+	• Added FindControl method to the AccordionPanel control.
+	• Fixed AutoPostBack for JuiceExtender controls.
+
+0.9.1.1
+	• JuiceUI assembly is now signed.
+
+0.9.1
+	• Improved data/options conversion.
+	• Improved event handling and error correction.
+	• Support for buttongroup.
+	• Support for nested controls and extending Juice UI controls with Juice UI.</releaseNotes>
+    <tags>ASP.NET WebForms jQuery jQueryUI Plugins Controls Ajax</tags>
+    <dependencies>
+      <dependency id="jQuery" version="1.8.2" />
+      <dependency id="jQuery.UI.Combined" version="1.9.0" />
+      <dependency id="json2" />
+      <dependency id="AmplifyJS" />
+    </dependencies>
+  </metadata>
+</package>

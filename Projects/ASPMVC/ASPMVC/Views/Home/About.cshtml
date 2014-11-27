@@ -1,0 +1,75 @@
+﻿@model ASPMVC.Models.Praba
+
+@{
+    ViewBag.Title = "About";
+}
+
+<h2>About</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Praba</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "About")
+    
+</div>
+@using (Html.BeginForm("OnClick", "Home"))
+{
+    <button type="submit">OnClick</button>
+}
+<!--<button id="Button1" value="Check" onclick="location.href='@Url.Action("OnRequest","Home")'"  Text="Button" />-->
+
+
+<!--<button id="Button1" value="Check" onclick="location.href='@Url.Action("HtmlAgility","Home")'" text="Button" />-->
+
+<br/>
+<form action="" onsubmit="return ajaxs">
+    
+    <input type="submit" value="ajax" />
+</form>
+@section scripts
+{
+    <script type="text/javascript">
+        function ajaxs() {
+
+            $.ajax({
+                type: "POST",
+                data: { name: "Praba", id: "11mse1108" },
+                url: "http://localhost:18749/Home/AjaxAction"
+            }).done(function(msg) {
+                //  alert(msg);
+                if (msg != 0) {
+                    alert(msg);
+                    //comet.doRequest('msg');
+                    // var ab = "<div align='center' style='background-color: green' id=" + msg + "><h2>" +username+"-"+ post + "</h2><div id=" + msg + 'a' + "></div><form onsubmit='return commentit(this.id)' id=" + msg + 'f' + "><input type='text' id=" + msg + 'b' + "></form></div>";
+                    //$(ab).prependTo($('#maindiv'));
+                } else {
+                    alert("try again");
+                }
+
+
+            });
+            return false;
+        }
+    </script>
+
+        @Scripts.Render("~/bundles/jqueryval")
+    }

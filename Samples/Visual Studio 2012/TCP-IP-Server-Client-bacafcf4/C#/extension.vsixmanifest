@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="TCP-IP-Server-Client-bacafcf4-103991" Version="4.0" Language="en-US" Publisher="Dave&#32;A&#32;Gordon" />
+    <DisplayName>TCP / IP Server Client Example Part 2 (Chat Application)</DisplayName>    
+    <Description>In this series we are going to be looking at TCP IP, Client / Servers and what a massive world of opportunities this knowledge opens up to us, Today we will be doing a Chat System!&#13;&#10;</Description>
+    <License>license.rtf</License>
+    <MoreInfo>http://code.msdn.microsoft.com/TCP-IP-Server-Client-bacafcf4?SRC=VSIDE</MoreInfo>
+    <ReleaseNotes>http://code.msdn.microsoft.com/TCP-IP-Server-Client-bacafcf4?SRC=VSIDE</ReleaseNotes>
+    <GettingStartedGuide>http://code.msdn.microsoft.com/TCP-IP-Server-Client-bacafcf4?SRC=VSIDE</GettingStartedGuide>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Ultimate" Version="[11.0.0.0,2147483647.2147483647.2147483647.2147483647]" />
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[11.0.0.0,2147483647.2147483647.2147483647.2147483647]" />
+    <InstallationTarget Id="Microsoft.VisualStudio.VWDExpress" Version="[11.0.0.0,2147483647.2147483647.2147483647.2147483647]" />
+    <InstallationTarget Id="Microsoft.VisualStudio.VSWinDesktopExpress" Version="[11.0.0.0,2147483647.2147483647.2147483647.2147483647]" />
+  </Installation>
+  <Dependencies>
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.Sample" Instructions="description.html" Path="Sample" ProgrammingLanguages="Visual C#" CategorizationPath="Visual&#32;C#\Desktop\C#\Controls" SolutionPath="ChatApp.sln" DefaultName="TCP / IP Server Clie"/>
+</Assets>
+</PackageManifest>

@@ -1,0 +1,113 @@
+﻿<Window x:Class="Xml_Reader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Quick Xml Reader"
+        Width="525"
+        Height="350">
+    <!--
+        xmlns:avalonDock="http://schemas.xceed.com/wpf/xaml/avalondock"
+        xmlns:tool="http://firstfloorsoftware.com/ModernUI"
+        xmlns:toolkit="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:tools="http://schemas.microsoft.com/winfx/2006/xaml/presentation/shell"
+    -->
+    <Grid xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20" />
+            <RowDefinition Height="289*" />
+            <RowDefinition Height="15" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="499*" />
+            <ColumnDefinition Width="25" />
+            <ColumnDefinition Width="200" />
+        </Grid.ColumnDefinitions>
+        <Menu Grid.Row="0"
+              Grid.Column="0"
+              Grid.ColumnSpan="2"
+              Background="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"
+              IsMainMenu="True">
+            <MenuItem Header="_File" Click="MenuItem_Click_1">
+                <MenuItem Click="MenuItem_Click" Header="Open" />
+            </MenuItem>
+
+        </Menu>
+
+        <RichTextBox Name="rt1"
+                     Grid.Row="1"
+                     Grid.Column="0"
+                     Grid.ColumnSpan="2"
+                     AutoWordSelection="False"
+                     Background="White"
+                     HorizontalScrollBarVisibility="Auto"
+                     IsDocumentEnabled="True"
+                     IsReadOnly="True"
+                     MouseWheel="rt1_MouseWheel" />
+        <ScrollBar Name="documentScroll"
+                   Grid.Row="1"
+                   Grid.Column="1"
+                   Width="Auto"
+                   Height="Auto"
+                   ValueChanged="Documentscroll_ValueChanged" />
+        <TextBlock Name="TextBlock1"
+                   Grid.Row="2"
+                   Grid.Column="0"
+                   Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}"
+                   Text="Status Bar"
+                   TextAlignment="Center"
+                   TextWrapping="Wrap" />
+        <Grid Grid.Row="0"
+              Grid.RowSpan="3"
+              Grid.Column="2">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <TextBox Name="TextBox1"
+                     Width="150"
+                     Height="23"
+                     HorizontalAlignment="Left"
+                     VerticalAlignment="Top"
+                     Text=""
+                     TextChanged="TextBox_TextChanged"
+                     TextWrapping="Wrap" />
+            <ListView Name="ls1"
+                      Grid.Row="1"
+                      SelectionChanged="ListView_SelectionChanged">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="20" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="150" />
+                                <ColumnDefinition />
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Row="0"
+                                       Grid.Column="0"
+                                       Text="{Binding Word}"
+                                       TextWrapping="Wrap" />
+                            <TextBlock Grid.Row="0"
+                                       Grid.Column="1"
+                                       Text="{Binding Line}" />
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Name="button1"
+                    Width="50"
+                    Height="25"
+                    Margin="150,0,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Bottom"
+                    Click="Button_Click"
+                    Content="Search" />
+        </Grid>
+
+    </Grid>
+
+</Window>

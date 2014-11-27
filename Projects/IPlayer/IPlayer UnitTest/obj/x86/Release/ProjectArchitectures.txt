@@ -1,0 +1,4 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer BackgroundTask\IPlayer BackgroundTask.csproj;x86
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer UnitTest\IPlayer UnitTest.csproj;x86
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\IPlayer.csproj;x86
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\WinRT XAML Toolkit - 1.3.6.0 - Source.zip\WinRTXamlToolkit\WinRTXamlToolkit.csproj;x86

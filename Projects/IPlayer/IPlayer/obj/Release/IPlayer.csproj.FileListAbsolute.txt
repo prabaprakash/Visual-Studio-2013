@@ -1,0 +1,187 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\IPlayer.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\IPlayer.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\resources.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\AppxManifest.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\IPlayer.build.appxrecipe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Callisto.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Microsoft.PlayerFramework.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Microsoft.PlayerFramework.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\PerpetuumSoft.Controls.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\PerpetuumSoft.WinRT.Framework.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\WinRTXamlToolkit.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\WinRTXamlToolkit.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\WinRTXamlToolkit.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\WinRTXamlToolkit.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Newtonsoft.Json.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Newtonsoft.Json.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\IPlayer.csprojResolveAssemblyReference.cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\App.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\App.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Common\StandardStyles.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Views\MainPage.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Views\MainPage.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Contracts\SettingsFlyLayout.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Contracts\SettingsFlyLayout.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Themes\EntertainmentTheme.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Themes\EntertainmentTheme.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Themes\generic.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Themes\generic.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\XamlTypeInfo.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\App.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Common\StandardStyles.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Themes\EntertainmentTheme.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Themes\generic.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Views\MainPage.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Contracts\SettingsFlyLayout.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\IPlayer.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\IPlayer.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\IPlayer.csproj.GenerateResource.Cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\priconfig.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\layout.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\resources.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\pri.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\LanguageQualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\ProjectArchitectures.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\layout.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\pri.resfiles.intermediate
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\IPlayer.exe
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\IPlayer.pdb
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\resources.pri
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\AppxManifest.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\IPlayer.build.appxrecipe
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Callisto.dll
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Microsoft.Advertising.WinRT.UI.winmd
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Microsoft.Advertising.WinRT.UI.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Microsoft.PlayerFramework.dll
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Microsoft.PlayerFramework.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\MicrosoftAdvertising.winmd
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\MicrosoftAdvertising.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\PerpetuumSoft.Controls.dll
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\PerpetuumSoft.WinRT.Framework.dll
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Telerik.Core.dll
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Telerik.Core.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Chart.dll
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Chart.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.DataVisualization.dll
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.DataVisualization.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Grid.dll
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Grid.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Input.dll
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Input.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Primitives.dll
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Primitives.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\IPlayer_BackgroundTask.winmd
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Newtonsoft.Json.dll
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\WinRTXamlToolkit.dll
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\IPlayer_BackgroundTask.pdb
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\IPlayer_BackgroundTask.pri
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\WinRTXamlToolkit.pdb
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\WinRTXamlToolkit.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\WinRTXamlToolkit.pri
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Newtonsoft.Json.pdb
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\bin\Release\Newtonsoft.Json.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\IPlayer.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\App.g.i.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\App.g.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Common\StandardStyles.g.i.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Common\StandardStyles.g.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Views\MainPage.g.i.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Views\MainPage.g.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Contracts\SettingsFlyLayout.g.i.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Contracts\SettingsFlyLayout.g.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Themes\EntertainmentTheme.g.i.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Themes\EntertainmentTheme.g.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Themes\generic.g.i.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Themes\generic.g.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\XamlTypeInfo.g.cs
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\App.xaml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Common\StandardStyles.xaml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Views\MainPage.xaml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Contracts\SettingsFlyLayout.xaml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Themes\EntertainmentTheme.xaml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\Themes\generic.xaml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\IPlayer.exe
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\IPlayer.pdb
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\IPlayer.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\priconfig.xml.intermediate
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\layout.resfiles.intermediate
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\resources.resfiles.intermediate
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\pri.resfiles.intermediate
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\priconfig.xml
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\layout.resfiles
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\resources.resfiles
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\pri.resfiles
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\LanguageQualifiers.txt
+E:\My Documents\Visual Studio 2012\Projects\IPlayer\IPlayer\obj\Release\ProjectArchitectures.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\IPlayer.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\IPlayer.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\resources.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\AppxManifest.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\IPlayer.build.appxrecipe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Callisto.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Microsoft.PlayerFramework.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Microsoft.PlayerFramework.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Telerik.Core.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Telerik.Core.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Chart.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Chart.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.DataVisualization.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.DataVisualization.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Grid.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Grid.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Input.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Input.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Primitives.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Telerik.UI.Xaml.Primitives.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\IPlayer_BackgroundTask.winmd
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\WinRTXamlToolkit.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\IPlayer_BackgroundTask.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\IPlayer_BackgroundTask.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\WinRTXamlToolkit.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\WinRTXamlToolkit.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\WinRTXamlToolkit.pri
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Newtonsoft.Json.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\bin\Release\Newtonsoft.Json.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\IPlayer.csprojResolveAssemblyReference.cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\App.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\App.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Common\StandardStyles.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Contracts\Shortcuts.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Contracts\Shortcuts.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Views\MainPage.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Views\MainPage.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Contracts\SettingsFlyLayout.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Contracts\SettingsFlyLayout.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Themes\EntertainmentTheme.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Themes\EntertainmentTheme.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Themes\generic.g.i.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Themes\generic.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\XamlTypeInfo.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\App.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Common\StandardStyles.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Contracts\Shortcuts.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Views\MainPage.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Contracts\SettingsFlyLayout.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Themes\EntertainmentTheme.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\Themes\generic.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\IPlayer.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\IPlayer.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\IPlayer.csproj.GenerateResource.Cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\priconfig.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\priconfig.xml.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\layout.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\layout.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\resources.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\resources.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\pri.resfiles
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\pri.resfiles.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\qualifiers.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\qualifiers.txt.intermediate
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\IPlayer\IPlayer\obj\Release\ProjectArchitectures.txt

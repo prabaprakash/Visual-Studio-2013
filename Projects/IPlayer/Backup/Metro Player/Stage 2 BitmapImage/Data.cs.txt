@@ -1,0 +1,77 @@
+using System;
+using System.ComponentModel;
+using Windows.Storage;
+using Windows.UI.Xaml.Controls;
+using Windows.UI.Xaml.Media;
+using Windows.UI.Xaml.Media.Imaging;
+
+namespace IPlayer
+{
+    public class playlist : INotifyPropertyChanged
+    {
+        public String _displayname;
+        public String _contenttype;
+        public String _datacreated;
+        public ImageSource _thumburi;
+        public StorageFile _mediafile;
+        public String _album;
+        ////public playlist(string name,string type,string date)
+        ////{
+        ////    this._displayname = name;
+        ////    this._datacreated = date;
+        ////    this._contenttype = type;
+        ////}
+        public String Album
+        {
+            get { return _album; }
+            set { _album = value; }
+        }
+        public  StorageFile MediaFile
+        {
+            get { return _mediafile; }
+          set { _mediafile = value; }
+        }
+        public ImageSource ThumbUri
+        {
+            get
+            {
+                return  _thumburi;
+            }
+                set { _thumburi = value; }
+        }
+        public String DisplayName
+        {
+            get { return _displayname; }
+            set
+            {
+                _displayname = value;
+               // fireproperychanged(DisplayName);
+            }
+        }
+        public  String ContentType
+        {
+            get { return _contenttype; }
+            set { 
+                _contenttype = value;
+              //  fireproperychanged(ContentType);
+            }
+        }
+        public  String DateCreated
+        {
+            get { return _datacreated; }
+            set { 
+                _datacreated = value;
+               // fireproperychanged(DateCreated);
+            }
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+        void fireproperychanged(string Property)
+        {
+            if (PropertyChanged!=null)
+            {
+                PropertyChanged(this,new PropertyChangedEventArgs(Property));
+            }
+        }
+    }
+}

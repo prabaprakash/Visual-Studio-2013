@@ -1,0 +1,7 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\Qxr Library\bin\Debug\QuickStream.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\Qxr Library\bin\Debug\QuickStream.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\Qxr Library\obj\Debug\QuickStream.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\Qxr Library\obj\Debug\QuickStream.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\Qxr Library\obj\Debug\QuickStream.csprojResolveAssemblyReference.cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\Qxr Library\bin\Debug\QuickStream.dll.CodeAnalysisLog.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\Xml_Reader\Qxr Library\bin\Debug\QuickStream.dll.lastcodeanalysissucceeded

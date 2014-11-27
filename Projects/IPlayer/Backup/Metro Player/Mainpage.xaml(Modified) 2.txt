@@ -1,0 +1,264 @@
+<SemanticZoom.ZoomedInView>
+                    <GridView x:Name="Gridview1"
+                              Background="White"
+                              BorderBrush="DarkViolet"
+                              Foreground="{StaticResource ApplicationForegroundThemeBrush}"
+                              IsSwipeEnabled="True"
+                              ItemsSource="{Binding Source={StaticResource Cvs}}"
+                              Opacity="0.75"
+                              ScrollViewer.IsHorizontalScrollChainingEnabled="False"
+                              SelectionChanged="Gridview1_OnSelectionChanged"
+                              Visibility="Visible">
+
+                        <GridView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Width="270"
+                                      Height="60"
+                                      Background="Black">
+                                    <ToolTipService.Placement>Mouse</ToolTipService.Placement>
+                                    <ToolTipService.ToolTip>
+                                        <ToolTip>
+                                            <ToolTip.Style>
+                                                <Style TargetType="ToolTip">
+                                                    <Setter Property="BorderBrush" Value="{StaticResource ToolTipBackgroundThemeBrush}" />
+                                                    <Setter Property="Padding" Value="0" />
+                                                </Style>
+                                            </ToolTip.Style>
+                                            <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="277*" />
+                                                    <ColumnDefinition Width="157*" />
+                                                </Grid.ColumnDefinitions>
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="55*" />
+                                                    <RowDefinition Height="27*" />
+                                                    <RowDefinition Height="30*" />
+                                                    <RowDefinition Height="31*" />
+                                                    <RowDefinition Height="33*" />
+                                                    <RowDefinition Height="39*" />
+                                                    <RowDefinition Height="56*" />
+                                                </Grid.RowDefinitions>
+                                                <Image Grid.Row="1"
+                                                       Grid.RowSpan="5"
+                                                       Grid.Column="1"
+                                                       HorizontalAlignment="Stretch"
+                                                       VerticalAlignment="Stretch"
+                                                       Source="{Binding ThumbUri}" />
+                                                <TextBlock Grid.Row="0"
+                                                           Grid.Column="0"
+                                                           Grid.ColumnSpan="2"
+                                                           HorizontalAlignment="Stretch"
+                                                           VerticalAlignment="Stretch"
+                                                           FontFamily="Segoe UI"
+                                                           FontSize="14"
+                                                           Foreground="{StaticResource ApplicationForegroundThemeBrush}"
+                                                           Text="{Binding DisplayName}"
+                                                           TextAlignment="Center"
+                                                           TextWrapping="Wrap" />
+                                                <TextBlock Grid.Row="1"
+                                                           Grid.Column="0"
+                                                           HorizontalAlignment="Stretch"
+                                                           VerticalAlignment="Stretch"
+                                                           FontFamily="Segoe UI"
+                                                           FontSize="13"
+                                                           Foreground="{StaticResource ApplicationForegroundThemeBrush}"
+                                                           Text="{Binding MediaFile.DateCreated}"
+                                                           TextAlignment="Center"
+                                                           TextWrapping="Wrap" />
+                                                <TextBlock Grid.Row="2"
+                                                           Grid.Column="0"
+                                                           HorizontalAlignment="Stretch"
+                                                           VerticalAlignment="Stretch"
+                                                           FontFamily="Segoe UI"
+                                                           FontSize="13"
+                                                           Foreground="{StaticResource ApplicationForegroundThemeBrush}"
+                                                           Text="{Binding Album}"
+                                                           TextAlignment="Center"
+                                                           TextWrapping="Wrap" />
+                                                <TextBlock Grid.Row="3"
+                                                           Grid.Column="0"
+                                                           HorizontalAlignment="Stretch"
+                                                           VerticalAlignment="Stretch"
+                                                           FontFamily="Segoe UI"
+                                                           FontSize="13"
+                                                           Foreground="{StaticResource ApplicationForegroundThemeBrush}"
+                                                           Text="{Binding MediaFile.FileType}"
+                                                           TextAlignment="Center"
+                                                           TextWrapping="Wrap" />
+                                                <TextBlock Grid.Row="4"
+                                                           Grid.Column="0"
+                                                           HorizontalAlignment="Stretch"
+                                                           VerticalAlignment="Stretch"
+                                                           FontFamily="Segoe UI"
+                                                           FontSize="13"
+                                                           Foreground="{StaticResource ApplicationForegroundThemeBrush}"
+                                                           Text="{Binding ContentType}"
+                                                           TextAlignment="Center"
+                                                           TextWrapping="Wrap" />
+                                                <TextBlock Grid.Row="5"
+                                                           Grid.Column="0"
+                                                           HorizontalAlignment="Stretch"
+                                                           VerticalAlignment="Stretch"
+                                                           FontFamily="Segoe UI"
+                                                           FontSize="13"
+                                                           Foreground="{StaticResource ApplicationForegroundThemeBrush}"
+                                                           Text="{Binding DateCreated}"
+                                                           TextAlignment="Center"
+                                                           TextWrapping="Wrap" />
+                                                <TextBlock Grid.Row="6"
+                                                           Grid.Column="0"
+                                                           Grid.ColumnSpan="2"
+                                                           HorizontalAlignment="Stretch"
+                                                           VerticalAlignment="Stretch"
+                                                           FontFamily="Segoe UI"
+                                                           FontSize="13"
+                                                           Foreground="{StaticResource ApplicationForegroundThemeBrush}"
+                                                           Text="{Binding MediaFile.Path}"
+                                                           TextAlignment="Center"
+                                                           TextWrapping="Wrap" />
+
+                                            </Grid>
+                                        </ToolTip>
+                                    </ToolTipService.ToolTip>
+
+
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition />
+                                        <RowDefinition />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="34*" />
+                                        <ColumnDefinition Width="56*" />
+                                        <ColumnDefinition Width="45*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Image Grid.Row="0"
+                                           Grid.RowSpan="2"
+                                           Grid.Column="0"
+                                           HorizontalAlignment="Stretch"
+                                           VerticalAlignment="Stretch"
+                                           Source="{Binding ThumbUri}" />
+                                    <TextBlock Grid.Row="0"
+                                               Grid.Column="1"
+                                               Grid.ColumnSpan="3"
+                                               HorizontalAlignment="Stretch"
+                                               VerticalAlignment="Stretch"
+                                               FontFamily="Segoe UI"
+                                               Foreground="{StaticResource ApplicationForegroundThemeBrush}"
+                                               Text="{Binding DisplayName}"
+                                               TextWrapping="Wrap" />
+                                    <TextBlock Grid.Row="2"
+                                               Grid.Column="1"
+                                               HorizontalAlignment="Stretch"
+                                               VerticalAlignment="Stretch"
+                                               FontFamily="Segoe UI"
+                                               Foreground="{StaticResource ApplicationForegroundThemeBrush}"
+                                               Text="{Binding ContentType}"
+                                               TextWrapping="Wrap" />
+                                    <TextBlock Grid.Row="2"
+                                               Grid.Column="3"
+                                               HorizontalAlignment="Stretch"
+                                               VerticalAlignment="Stretch"
+                                               FontFamily="Segoe UI"
+                                               Foreground="{StaticResource ApplicationForegroundThemeBrush}"
+                                               Text="{Binding DateCreated}"
+                                               TextWrapping="Wrap" />
+                                </Grid>
+                            </DataTemplate>
+                        </GridView.ItemTemplate>
+
+
+                        <!--
+                            <GridView.GroupStyle>
+                            <GroupStyle>
+                            <GroupStyle.ContainerStyle>
+                            <Style TargetType="GroupItem">
+                            <Setter Property="Template">
+                            <Setter.Value>
+                            <ControlTemplate TargetType="GroupItem">
+                            
+                            
+                            <ItemsControl x:Name="ItemsControl" ItemsSource="{Binding GroupItems}" />
+                            
+                            </ControlTemplate>
+                            </Setter.Value>
+                            </Setter>
+                            </Style>
+                            </GroupStyle.ContainerStyle>
+                            <GroupStyle.Panel>
+                            <ItemsPanelTemplate>
+                            <VariableSizedWrapGrid Orientation="Vertical" />
+                            </ItemsPanelTemplate>
+                            </GroupStyle.Panel>
+                            </GroupStyle>
+                            </GridView.GroupStyle>
+                        -->
+
+
+
+
+
+
+                        <GridView.GroupStyle>
+                            <GroupStyle>
+                                <GroupStyle.HeaderTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Width="270"
+                                                   Margin="5"
+                                                   FontSize="25"
+                                                   Foreground="Black"
+                                                   Text="{Binding Key}" />
+                                    </DataTemplate>
+                                </GroupStyle.HeaderTemplate>
+                                <GroupStyle.Panel>
+                                    <ItemsPanelTemplate>
+                                        <VariableSizedWrapGrid Orientation="Vertical" />
+                                    </ItemsPanelTemplate>
+                                </GroupStyle.Panel>
+                            </GroupStyle>
+                        </GridView.GroupStyle>
+
+
+
+
+                        
+                            <!--<GridView.GroupStyle>
+                            <GroupStyle>
+                            <GroupStyle.HeaderTemplate>
+                            <DataTemplate>
+                            <TextBlock Text='{Binding Key}' Foreground="Gray"
+                            Margin="5" FontSize="18" FontFamily="Segoe UI Light" />
+                            </DataTemplate>
+                            </GroupStyle.HeaderTemplate>
+                            <GroupStyle.ContainerStyle>
+                            <Style TargetType="GroupItem">
+                            <Setter Property="Template">
+                            <Setter.Value>
+                            <ControlTemplate TargetType="GroupItem">
+                            <StackPanel Orientation="Vertical">
+                            <ContentPresenter Content="{TemplateBinding Content}" />
+                            <ItemsControl x:Name="ItemsControl"
+                            ItemsSource="{Binding GroupItems}" />
+                            </StackPanel>
+                            </ControlTemplate>
+                            </Setter.Value>
+                            </Setter>
+                            </Style>
+                            </GroupStyle.ContainerStyle>
+                            <GroupStyle.Panel>
+                            <ItemsPanelTemplate>
+                            <VariableSizedWrapGrid Orientation="Vertical" />
+                            </ItemsPanelTemplate>
+                            </GroupStyle.Panel>
+                            </GroupStyle>
+                            </GridView.GroupStyle>-->
+                        
+
+
+                        <GridView.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <VirtualizingStackPanel Orientation="Horizontal" VirtualizationMode="Recycling" />
+                            </ItemsPanelTemplate>
+                        </GridView.ItemsPanel>
+                    </GridView>
+                </SemanticZoom.ZoomedInView>

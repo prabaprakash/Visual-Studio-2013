@@ -1,0 +1,29 @@
+<CodeSamples>
+  <CodeSample Name="TCP-IP-Server-Client-bacafcf4" Title="TCP / IP Server Client Example Part 2 (Chat Application)" Supports="Visual Studio 2012" LastUpdated="12/18/2013" GalleryURL="http://code.msdn.microsoft.com/TCP-IP-Server-Client-bacafcf4" Rating="4.16666666666667" Raters="6" Downloads="8621" Affiliation="">
+    <Author DisplayName="Dave A Gordon" Link="http://code.msdn.microsoft.com/site/profile?userName=Dave%20A%20Gordon" />
+    <License Title="MSLPL" Link="http://code.msdn.microsoft.com/site/TCP-IP-Server-Client-bacafcf4/eula?licenseType=MSLPL" />
+    <ProgrammingLanguages>
+      <ProgrammingLanguage>C#</ProgrammingLanguage>
+      <ProgrammingLanguage>VB.NET</ProgrammingLanguage>
+    </ProgrammingLanguages>
+    <Platforms>
+      <Platform>Desktop</Platform>
+      <Platform>Web</Platform>
+      <Platform>Cloud</Platform>
+      <Platform>Phone</Platform>
+      <Platform>Data</Platform>
+      <Platform>Xbox</Platform>
+      <Platform>Windows Store apps</Platform>
+    </Platforms>
+    <Summary>In this series we are going to be looking at TCP IP, Client / Servers and what a massive world of opportunities this knowledge opens up to us, Today we will be doing a Chat System!
+</Summary>
+    <Technologies>
+      <Technology>C#</Technology>
+      <Technology>Silverlight</Technology>
+      <Technology>.NET</Technology>
+    </Technologies>
+    <SamplePackages>
+      <SamplePackage LastUpdated="8/22/2014" DownloadLink="" ProgrammingLanguage="C#" VSIXID="TCP-IP-Server-Client-bacafcf4-103991" EntryFile="Visual Studio 2012\TCP-IP-Server-Client-bacafcf4\C#\Sample\ChatApp.sln" />
+    </SamplePackages>
+  </CodeSample>
+</CodeSamples>

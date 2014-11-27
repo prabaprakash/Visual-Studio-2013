@@ -1,0 +1,15 @@
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\SP\SP\bin\Debug\SP.exe.config
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\SP\SP\bin\Debug\SP.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\SP\SP\bin\Debug\SP.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\SP\SP\obj\Debug\MainWindow.baml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\SP\SP\obj\Debug\MainWindow.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\SP\SP\obj\Debug\App.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\SP\SP\obj\Debug\SP_MarkupCompile.cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\SP\SP\obj\Debug\SP.g.resources
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\SP\SP\obj\Debug\SP.Properties.Resources.resources
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\SP\SP\obj\Debug\SP.csproj.GenerateResource.Cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\SP\SP\obj\Debug\SP.exe
+C:\Users\PrabaKarthi\Documents\Visual Studio 2013\Projects\SP\SP\obj\Debug\SP.pdb
+C:\Users\PrabaKarthi\documents\visual studio 2013\Projects\SP\SP\obj\Debug\SP.csprojResolveAssemblyReference.cache
+C:\Users\PrabaKarthi\documents\visual studio 2013\Projects\SP\SP\bin\Debug\instruct_table.txt
+C:\Users\PrabaKarthi\documents\visual studio 2013\Projects\SP\SP\obj\Debug\SP_Content.g.cs
